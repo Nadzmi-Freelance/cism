@@ -1,0 +1,19 @@
+{
+    "acc-list": [
+        {
+            "username": "nadzmi",
+            "password": "nadzmi",
+            "email": "nadzmiidzham@gmail.com"
+        },
+        {
+            "username": "shuhaida",
+            "password": "shuhaida",
+            "email": "shuhaida@gmail.com"
+        },
+        {
+            "username": "test",
+            "password": "test",
+            "email": "test@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+username,q1,q2,q3,q4,q5,score
+nadzmi,2,3,4,3,2,2.8
+shuhaida,1,1,2,2,3,1.8

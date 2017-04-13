@@ -1,0 +1,38 @@
+.nav-menu {
+    left: 0px;
+    margin: 0px 0px 0px 0px;
+    padding: 20px 0px 20px 0px;
+
+    overflow: hidden;
+    font-weight: bold;
+    box-shadow: 5px 0px 5px #CDCDCD;
+    background-color: #333333;
+}
+
+.main-menu {
+    width: 100%;
+    margin-left: 30px;
+}
+
+.main-menu li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    border-radius: 10px;
+    background-color: #D3D3D3;
+}
+.main-menu li :hover {
+    border-radius: 10px;
+
+    color: #ffffff !important;
+    background-color: #E8A808 !important;
+}
+
+.sub-menu {
+    margin-left: 60px;
+}
+
+.sub-menu li {
+    border-radius: 10px;
+    background-color: #D3D3D3;
+}

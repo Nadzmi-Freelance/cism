@@ -1,0 +1,37 @@
+table {
+    background-color: #FFFFFF;
+}
+
+th {
+    background-color: #93BEE9;
+}
+
+td {
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.content {
+    margin: 0px;
+    padding: 0px;
+}
+
+.content-base {
+    margin: 20px;
+    padding: 10px;
+
+    border-radius: 10px;
+    background-color: #F2EE8D;
+}
+
+.btn-hantar {
+    width: 50%;
+
+    font-weight: bold;
+    color: #8E290A;
+    border-color: #FFF8A8;
+    background-color: #EFBA3A;
+}
